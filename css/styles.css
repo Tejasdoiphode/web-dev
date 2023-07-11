@@ -1,0 +1,11 @@
+body{background-color: powderblue; }
+        hr { background-color: none;
+        border-style: none;
+        border-top: dotted;
+        border-width: 5px;
+        border-color: antiquewhite;
+        height: 1px;
+        width : 100% } 
+        h1 {
+            color: #331D2C;
+        }
